@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "abpapi_net8": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51294;http://localhost:51295"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@abpapi_net8_server_HostAddress = http://localhost:5078
+
+GET {{abpapi_net8_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
